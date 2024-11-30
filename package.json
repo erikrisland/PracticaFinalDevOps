@@ -1,0 +1,14 @@
+{
+  "name": "practicafinaldevops",
+  "version": "1.0.0",
+  "description": "Proyecto DevOps final con CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Erik Risland",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
